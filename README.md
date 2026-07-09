@@ -57,7 +57,7 @@ Pré-requisito: ter o **Node.js** instalado (v16 ou superior recomendado).
 git clone <https://github.com/HerikWillian/08-JS-A-Linguagem>
 
 # 2. Entre na pasta do projeto
-cd jogo-da-forca
+cd 08-JS-A-Linguagem
 
 # 3. Rode o jogo
 npm start
